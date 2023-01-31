@@ -1,0 +1,28 @@
+QUERY
+Carilah dosen yang memiliki gaji tertinggi per masing-masing mata kuliah. Tampilkan  semua atribut dosen dan semua atribut mata kuliahnya. Urutkan hasilnya berdasarkan nama  mata kuliahnya secara ascending(A-Z).
+File h8dsft_SQL_Basic_query.csv
+
+C. Cases
+C.1 Group By
+Cases :
+
+Case 1 : Who is the teacher with the highest salary for each university ?
+File h8dsft_SQL_Basic_Group By_Case 1.csv
+
+Case 2 : Who is the teacher with the highest salary from Standford University ?
+file h8dsft_SQL_Basic_Group By_Case 2.csv
+
+C.2. Join
+Cases :
+
+Case 1 : Display all courses with teacher's identity
+File h8dsft_SQL_Basic_Join_Case 1.csv
+
+Case 2 : Display how many courses per universities
+File h8dsft_SQL_Basic_Join_Case 2.csv
+
+Case 3 : Display how many total_students per teachers
+File h8dsft_SQL_Basic_Join_Case 3.csv
+
+Case 4 : Display how many courses per teachers
+File h8dsft_SQL_Basic_Join_Case 4.csv
