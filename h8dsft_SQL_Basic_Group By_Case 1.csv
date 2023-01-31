@@ -1,0 +1,5 @@
+"id","first_name","last_name","school","hire_date","salary","id","name","teachers_id","total_students"
+"5","Betty","Diaz","Cambridge University","2005-08-30","43500","12","Calculus","5","19"
+"8","Zack","Smith","Harvard University","2000-12-29","55500","11","Chemistry","8","16"
+"2","Lee","Reynolds","MIT","1993-05-22","65000","1","Calculus","2","20"
+"10","Frank","Abbers","Standford University","1999-01-30","66000","8","Computer Science","10","35"
